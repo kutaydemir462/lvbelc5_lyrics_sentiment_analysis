@@ -33,7 +33,7 @@ This project reflects a real-world data challenge:
 ## Files
 
 - `lyrics_analysis.ipynb`: Main notebook
-- `lvbelc5_lyrics.db`: SQLite database of 40+ Lvbel C5 songs and lyrics
+- `lvbelc5_lyrics_database.db`: SQLite database of 40+ Lvbel C5 songs and lyrics
 - `README.md`: This file
 
 ---
